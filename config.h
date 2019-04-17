@@ -2,11 +2,11 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME    "LuffyWesley"
-#define IO_KEY         "abe26d8d0f0e4eba8ae2b5acbfd08ebc"
+#define IO_USERNAME    ""
+#define IO_KEY         ""
 
 /************************ API Keys Config *******************************/
-const char* weatherKey = "7f17236e9a1ad28334e8abcaafa9139c"; // API key for openweathermap (https://openweathermap.org)
+const char* weatherKey = ""; // API key for openweathermap (https://openweathermap.org)
 
 /******************************* WIFI **************************************/
 
